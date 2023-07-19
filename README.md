@@ -1,5 +1,7 @@
 # projeto_vitrine_veiculos
 
+Video de apresentação do projeto no Youtube (duração: 5:45): https://youtu.be/COHtMdWYg98
+
 Documentação projeto vitrine de carros
 
 * Instruções do projeto
