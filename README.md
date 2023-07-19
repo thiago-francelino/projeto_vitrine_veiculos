@@ -2,7 +2,7 @@
 
 Documentação projeto vitrine de carros
 
-Instruções do projeto
+-Instruções do projeto
 
   As funcionalidades de armazenamento de imagem e validação de todas as requisições não funcionam completamente, a validação JWT somente    valida o usuário no momento do clique do botão sing in, e a imagem só tem o input, além disso alguns nomes ficaram metade em inglês e a   outra metade em português pois o CORS travou algumas requisições se estivessem com nome de rota diferente.
 
