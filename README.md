@@ -1,6 +1,6 @@
 # projeto_vitrine_veiculos
 
-Video de apresentação do projeto no Youtube (duração: 5:45): https://youtu.be/COHtMdWYg98
+PRJETO SIMPLES PRA APRENDIZADO DO CONCEITO DE API REST E ANGULAR
 
 Documentação projeto vitrine de carros
 
